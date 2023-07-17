@@ -8,6 +8,8 @@ public class MovieRunner {
 		
 		movie1.printInfo();
 		movie1.director1.printInfo();
+
+		System.out.println("");
 		
 		movie2.printInfo();
 		movie1.director2.printInfo();
