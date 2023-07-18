@@ -2,7 +2,7 @@ package com.xworkz.shoe;
 
 public class ShoeUtil  {
 	
-	static void guna(Shoe shoe) {
+	static void check(Shoe shoe) {
 		if(shoe != null) {
 			System.out.println("Price : "+shoe.price);
 			System.out.println("Color : "+shoe.color);
